@@ -1,0 +1,7 @@
+.vscode/*
+.vs/*
+*/Debug/*
+devsuRound/*
+*/__pycache__/*
+
+*.vcxproj*
